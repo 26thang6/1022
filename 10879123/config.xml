@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget id="tw.edu.nfu.eZTravel" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<!-- versionCode is optional and Android only -->
+  <name>eZTravel</name>
+  <description>
+      An example for phonegap build APP from 26thang6@gmail.com
+  </description>
+  <author href="https://www.fb.com/thanhlong.266/" email="26thang6@gmail.com">
+      Thanh Long
+  </author>
+  <content src="index.html" />
+  <platform name="android">
+    <icon src="res/heart.png" />
+    <icon src="res/android/heart.png" density="ldpi" />
+    <icon src="res/android/heart.png" density="mdpi" />
+    <icon src="res/android/heart.png" density="hdpi" />
+    <icon src="res/android/heart.png" density="xhdpi" />
+  </platform>
+</widget>
